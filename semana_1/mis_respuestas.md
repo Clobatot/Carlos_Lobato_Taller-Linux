@@ -13,7 +13,7 @@ cómo hacerlo.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+La nota de copyright y la parte de los derechos se incluya en todas las copias o partes sustanciales del Software. Esta es la condición que invalidaría la licencia en caso de no cumplirse. Permite reutilizar el software así licenciado tanto para ser software libre como para ser software no libre, permitiendo no liberar los cambios realizados al programa original. 
 
 ## Pregunta 2
 
@@ -21,7 +21,12 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+    Metodologías abiertas
+    Revisión por pares abierta
+    Software y Hardware Abiertos
+    Datos Abiertos
+    Acceso Abierto
+    Recursos Educativos Abiertos 
 
 ## Pregunta 3
 
@@ -30,7 +35,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Sí, Cloud custodian, Jira, Bluejeans.
 
 ## Pregunta 4
 
@@ -38,7 +43,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Sí, su repositorio es: Netflix, Inc. 
 
 ## Pregunta 5
 
@@ -47,7 +52,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Un programa de inteligencia artificial desarrollado por DeepMind de Alphabet/Google que realiza predicciones de la estructura de las proteínas mediante el sistema de aprendizaje profundo. Su código no es abierto, por lo que no se podria modificar.
 
 ## Pregunta 6
 
@@ -55,7 +60,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+En México, la Ley de la Propiedad Industrial regula el otorgamiento de patentes en el país a las invenciones de productos o de procesos. En ella se menciona que los programas de cómputo no son considerados invenciones, por lo que en México no existen tales patentes. Los programas de software solamente se pueden proteger mediante el Registro Público del Derecho de Autor; en él se registran programas, documentación y bases de datos. Las responsabilidades del Registro son las de orientar a autores, y procurar resolver controversias según la Ley Federal de Derecho de Autor y su reglamento.
 
 
 
